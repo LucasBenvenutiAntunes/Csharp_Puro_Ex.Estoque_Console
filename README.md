@@ -2,8 +2,8 @@
 #DESAFIO C# ARRAY DE OBJETOS.
 
 1.0 - SUMARIO
-Desafio de inserção de itens em um ARRAY DE OBJETO utilizando C# em ConsoleApp.
-O programa consiste em um controle de estoque.
+> Desafio de inserção de itens em um array de objeto utilizando C# em ConsoleApp.
+> O programa consiste em um controle de estoque.
 
 2.0 - OBJETIVOS
 > Cadastrar itens da classe Produto.cs, contendo os atributos Nome e Preço, no estoque.
@@ -15,4 +15,6 @@ O programa consiste em um controle de estoque.
 
 4.0 - BÔNUS
 > Criar interface familiar ao usuário.
+> Não utilizar listas.
+
 
