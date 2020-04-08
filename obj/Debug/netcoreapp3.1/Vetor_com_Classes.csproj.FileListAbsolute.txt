@@ -1,0 +1,11 @@
+C:\Users\LucasBenvenutiAntune\Documents\ExerciciosUdemyCsharp\Vetor_com_Classes\obj\Debug\netcoreapp3.1\Vetor_com_Classes.csprojAssemblyReference.cache
+C:\Users\LucasBenvenutiAntune\Documents\ExerciciosUdemyCsharp\Vetor_com_Classes\obj\Debug\netcoreapp3.1\Vetor_com_Classes.AssemblyInfoInputs.cache
+C:\Users\LucasBenvenutiAntune\Documents\ExerciciosUdemyCsharp\Vetor_com_Classes\obj\Debug\netcoreapp3.1\Vetor_com_Classes.AssemblyInfo.cs
+C:\Users\LucasBenvenutiAntune\Documents\ExerciciosUdemyCsharp\Vetor_com_Classes\bin\Debug\netcoreapp3.1\Vetor_com_Classes.exe
+C:\Users\LucasBenvenutiAntune\Documents\ExerciciosUdemyCsharp\Vetor_com_Classes\bin\Debug\netcoreapp3.1\Vetor_com_Classes.deps.json
+C:\Users\LucasBenvenutiAntune\Documents\ExerciciosUdemyCsharp\Vetor_com_Classes\bin\Debug\netcoreapp3.1\Vetor_com_Classes.runtimeconfig.json
+C:\Users\LucasBenvenutiAntune\Documents\ExerciciosUdemyCsharp\Vetor_com_Classes\bin\Debug\netcoreapp3.1\Vetor_com_Classes.runtimeconfig.dev.json
+C:\Users\LucasBenvenutiAntune\Documents\ExerciciosUdemyCsharp\Vetor_com_Classes\bin\Debug\netcoreapp3.1\Vetor_com_Classes.dll
+C:\Users\LucasBenvenutiAntune\Documents\ExerciciosUdemyCsharp\Vetor_com_Classes\bin\Debug\netcoreapp3.1\Vetor_com_Classes.pdb
+C:\Users\LucasBenvenutiAntune\Documents\ExerciciosUdemyCsharp\Vetor_com_Classes\obj\Debug\netcoreapp3.1\Vetor_com_Classes.dll
+C:\Users\LucasBenvenutiAntune\Documents\ExerciciosUdemyCsharp\Vetor_com_Classes\obj\Debug\netcoreapp3.1\Vetor_com_Classes.pdb
